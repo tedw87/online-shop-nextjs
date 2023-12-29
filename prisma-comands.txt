@@ -1,0 +1,3 @@
+npx prisma init
+npx prisma generate
+npx prisma db push - push changes to db
